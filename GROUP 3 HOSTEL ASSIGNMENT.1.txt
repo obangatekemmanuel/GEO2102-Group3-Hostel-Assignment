@@ -1,0 +1,89 @@
+GROUP 3 HOSTEL ASSIGNMENT.
+
+NATUMANYA CYNTHIA ARINDA	25/1/324/D/334
+OBANGATEK EMMANUEL	25/1/324/D/001
+NSANGI MARGRET	25/1/324/D/1261
+NAKAFEERO CYNTHIA	25/1/324/D/1145
+SSEMPIIRA GEORGE	25/1/324/D/296
+AHABWE CANAN	       25/1/324/D/465
+KIZITO SIMON PETER	25/1/324/D/303
+MICH BARBARA	25/1/324/D/2060
+ATUNGONZA JOYCE	25/1/324/D/1960
+NSEMIRIIRWE MACKLEAN	25/1/324/D/2115
+DOKOTHO EVELYN	25/1/324/DJ/528
+  
+
+
+
+      We opened ApacheNetbeans, created a class, named it Geo2102 Group3_Hostel_Assinment.
+     We then created a package, and a subclass named it Hostel.
+     We inserted code, according to the information of 5 Hostels; H11,H12,H13,H14 and H15, into the class and subclass
+     Then, we checked for the errors and corrected them.
+     Finally, we ran the code and it displayed the results for the specified Hostels, H11-H15.
+
+RESULTS;
+
+run:
+==============================================
+       GEO2102 - GROUP 3 HOSTEL DATA
+==============================================
+
+----------------------------------------------
+Hostel ID: H11
+Hostel Name: Lugoba Hostel
+Accommodation Type: Not self-contained (Single)
+Rental Price: UGX 400000.0
+Occupancy Status: Partially Occupied
+Latitude: 0.60381995
+Longitude: 32.477415
+Fully Occupied: No
+
+----------------------------------------------
+Hostel ID: H12
+Hostel Name: Blue Sheets Hostel
+Accommodation Type: Self-contained (Single)
+Rental Price: UGX 700000.0
+Occupancy Status: Occupied
+Latitude: 0.60435603
+Longitude: 32.477067
+Fully Occupied: Yes
+
+----------------------------------------------
+Hostel ID: H13
+Hostel Name: Sofi Hostel
+Accommodation Type: Self-contained (Single)
+Rental Price: UGX 1200000.0
+Occupancy Status: Partially Occupied
+Latitude: 0.60272802
+Longitude: 32.47707
+Fully Occupied: No
+
+----------------------------------------------
+Hostel ID: H14
+Hostel Name: Bwino Hostel
+Accommodation Type: Not self-contained (Single)
+Rental Price: UGX 400000.0
+Occupancy Status: Occupied
+Latitude: 0.60202834
+Longitude: 32.477371
+Fully Occupied: Yes
+
+----------------------------------------------
+Hostel ID: H15
+Hostel Name: Elpa 2 Hostel
+Accommodation Type: Self-contained
+Rental Price: UGX 900000.0
+Occupancy Status: Partially Occupied
+Latitude: 0.60055991
+Longitude: 32.477305
+Fully Occupied: No
+
+==============================================
+             GROUP 3 SUMMARY
+==============================================
+Number of Hostels: 5
+Average Rental Price: UGX 720000.0
+Number of Fully Occupied Hostels: 2
+Number of Not Fully Occupied Hostels: 3
+==============================================
+BUILD SUCCESSFUL (total time: 0 seconds) 
